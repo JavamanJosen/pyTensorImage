@@ -1,0 +1,4 @@
+0 Traceback (most recent call last):
+  File "gen_printed_char.py", line 408, in <module>
+    print (value,chars)
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u4e00' in position 0: ordinal not in range(128)
